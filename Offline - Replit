@@ -1,0 +1,51 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://replit.com/@PavithraP7/Challenge-32#main.py
+Subject: Offline - Replit
+Date: Sat, 23 Sep 2023 14:16:00 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--AYQWRadKAduN87k3ao0KfcF9vzzxUP2SrBvBP8uGn2----"
+
+
+------MultipartBoundary--AYQWRadKAduN87k3ao0KfcF9vzzxUP2SrBvBP8uGn2----
+Content-Type: text/html
+Content-ID: <frame-F4710F3760A22A637CE2C666747C5CDB@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://replit.com/@PavithraP7/Challenge-32#main.py
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-95204664-2990-4084-b951-1804002f0aa1@mhtml.blink" />
+    <link rel="icon" href="https://replit.com/public/images/favicon.ico" type="image/vnd.microsoft.icon">
+    <title>Offline - Replit</title>
+  </head>
+  <body>
+    <div id="content">
+      <h1>🙈</h1>
+      <h4>You’re offline!</h4>
+      <p>Check your connection and refresh to access Replit.</p>
+      <button>Refresh</button>
+    </div>
+    
+    
+  
+
+</body></html>
+------MultipartBoundary--AYQWRadKAduN87k3ao0KfcF9vzzxUP2SrBvBP8uGn2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-95204664-2990-4084-b951-1804002f0aa1@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: "IBM Plex Sans", system-ui, sans-serif; font-style: normal; font-weight: 400; background-color: rgb(255, 255, 255); }
+
+#content { text-align: center; display: flex; flex-direction: column; min-height: 100vh; align-items: center; justify-content: center; }
+
+p { margin-top: 0px; }
+
+button { cursor: pointer; height: 37px; min-width: 120px; padding: 0px 10px; line-height: 37px; text-align: center; font-family: inherit; font-size: 16px; outline: 0px; text-decoration: none; border: none; background-color: rgb(52, 133, 228); color: rgb(255, 255, 255); border-radius: 4px; }
+
+@media (prefers-color-scheme: dark) {
+  body { background: rgb(14, 21, 37); color: rgb(245, 249, 252); }
+}
+------MultipartBoundary--AYQWRadKAduN87k3ao0KfcF9vzzxUP2SrBvBP8uGn2------
